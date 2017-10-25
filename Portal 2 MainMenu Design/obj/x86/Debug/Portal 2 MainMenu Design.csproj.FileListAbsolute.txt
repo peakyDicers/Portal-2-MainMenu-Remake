@@ -1,0 +1,9 @@
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\bin\Debug\Portal 2 MainMenu Design.exe
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\bin\Debug\Portal 2 MainMenu Design.pdb
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\Portal 2 MainMenu Design.csproj.GenerateResource.Cache
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\Portal 2 MainMenu Design.exe
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\Portal 2 MainMenu Design.pdb
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\obj\x86\Debug\Portal 2 MainMenu Design.csprojResolveAssemblyReference.cache
+C:\Users\Ian Chui\documents\visual studio 2010\Projects\Portal 2 MainMenu Design\Portal 2 MainMenu Design\bin\Debug\AudioPlayer.pdb
